@@ -1,2 +1,4 @@
-# HackerRank_30DaysPracticeUsingPython
-Solution of HackerRank30 days practice set
+# HackerRank solutions of 30 days practice code , using python
+
+# Day 1 :- 
+
